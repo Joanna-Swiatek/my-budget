@@ -8,5 +8,6 @@ This is my first budget project based on Java and Spring.
 git status - pokaż mi co się dzieje w repozytorium
 git log - historia
 git log --graph - rysuje graf historii
-gir add . - dodaje do stage'a wszystkie zmienione/nowe pliki (dopiero wtedy można commitować)
+git add . - dodaje do stage'a wszystkie zmienione/nowe pliki (dopiero wtedy można commitować)
 git commit -m "co się zmienia" - zapis zmian do repozytorium
+git branch -a - wyświetl wszystkie branche
